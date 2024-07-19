@@ -1,10 +1,10 @@
 # Medicine-Recommendation-System
 
-**The Problem**
+** **The Problem** **
 
 The project began with recognizing a common issue: people often experience symptoms and want quick answers about their health concerns. It can be challenging to differentiate between various diseases, especially when symptoms overlap. Our goal was to provide a convenient solution for users to input their symptoms and receive potential diagnoses.
 
-**The Solution**
+** **The Solution** **
 
 We developed a web app that allows users to enter a list of symptoms they are experiencing. The app then uses a pre-trained Decision Tree Classifier model to predict the most likely disease based on the provided symptoms. Here's how it works:
 
@@ -16,7 +16,7 @@ We developed a web app that allows users to enter a list of symptoms they are ex
 
 **Additional Information:** To enhance user experience, the app also provides additional information about the predicted disease. This includes a description of the disease, recommended precautions, medications, dietary advice, and workout tips.
 
-**Key Features**
+** **Key Features** **
 
 **User-Friendly Interface:** The web app boasts an intuitive and easy-to-navigate interface, ensuring that users can input their symptoms without any hassle.
 
@@ -26,11 +26,11 @@ We developed a web app that allows users to enter a list of symptoms they are ex
 
 ducational Content: To empower users with knowledge, the app includes informative blog posts about various health topics.
 
-**Conclusion**
+** **Conclusion** **
 
 Our Symptom-Based Disease Diagnosis Web App brings the power of machine learning and healthcare information to the fingertips of users. It serves as a valuable resource for individuals looking to gain insights into their health conditions quickly and conveniently. By combining technology and healthcare, we aim to make healthcare more accessible and user-centric. In an era where remote healthcare solutions are gaining prominence, this project represents a significant step forward in providing accessible and reliable healthcare information to the masses. We hope that this project will contribute to better health awareness and ultimately improve the well-being of individuals worldwide.
 
-**Required some importtant library to run this code:**
+** **Required some importtant library to run this code:** **
 
 **pip install numpay**
 
